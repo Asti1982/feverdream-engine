@@ -1,0 +1,50 @@
+=== chunkins1.lua
+fd-game: world + config from chunkins1.lua (11 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 240 frames, 11.8 fps end-to-end
+  score 1 (half-way 1), lives 3, state playing, highest stand 1.00, levels advanced 0, title 'Golden Acorn 1: Acorn Meadow'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)
+/root/chunkins-playtest-chunkins1.png PNG 320x180 320x180+0+0 8-bit sRGB 66603B 0.000u 0:00.000
+
+=== chunkins2.lua
+fd-game: world + config from chunkins2.lua (18 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 240 frames, 12.1 fps end-to-end
+  score 1 (half-way 1), lives 3, state playing, highest stand 1.00, levels advanced 0, title 'Golden Acorn 2: Crate Heights'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)
+/root/chunkins-playtest-chunkins2.png PNG 320x180 320x180+0+0 8-bit sRGB 65643B 0.000u 0:00.000
+
+=== chunkins3.lua
+fd-game: world + config from chunkins3.lua (18 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 240 frames, 13.1 fps end-to-end
+  score 1 (half-way 1), lives 3, state playing, highest stand 0.00, levels advanced 0, title 'Golden Acorn 3: Acorn Mountain'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)
+/root/chunkins-playtest-chunkins3.png PNG 320x180 320x180+0+0 8-bit sRGB 40241B 0.000u 0:00.000
+
+=== chunkins4.lua
+fd-game: world + config from chunkins4.lua (24 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 240 frames, 12.0 fps end-to-end
+  score 1 (half-way 1), lives 3, state playing, highest stand 0.00, levels advanced 0, title 'Golden Acorn 4: Thief's Hollow'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)
+/root/chunkins-playtest-chunkins4.png PNG 320x180 320x180+0+0 8-bit sRGB 61149B 0.000u 0:00.000
+
+=== chunkins_hazelnut_bridges.lua
+fd-game: world + config from chunkins_hazelnut_bridges.lua (24 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 240 frames, 12.1 fps end-to-end
+  score 0 (half-way 0), lives 3, state playing, highest stand 0.55, levels advanced 0, title 'Golden Acorn 5: Hazelnut Bridges'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC FAILED
+/root/chunkins-playtest-chunkins_hazelnut_bridges.png PNG 320x180 320x180+0+0 8-bit sRGB 69389B 0.000u 0:00.000
+
+e1c89d39fc163c8d81e6a67a3bf4fcb000764c04a527d834fd8bc7edfba77f1a  /root/chunkins-playtest-chunkins1.png
+e206e443f2778fec3f53ec08bef1f8a5df46f5f8830bc5e647aee69b022d1109  /root/chunkins-playtest-chunkins2.png
+bae20f335cc1ff70aece9d1705e51cc0e99e8bf3712232b45b91d49fe273eb02  /root/chunkins-playtest-chunkins3.png
+79bf6b7b3dfcbcabbfcacdda4ffa8022ec7bcd937ee3886d3258ee6a59ee8538  /root/chunkins-playtest-chunkins4.png
+15a78378c9579f9624c5a88a0935346cbe66363f98a0a15349251eb097e175cf  /root/chunkins-playtest-chunkins_hazelnut_bridges.png
